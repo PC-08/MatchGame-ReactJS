@@ -1,0 +1,52 @@
+.game-bg {
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-bg.png');
+}
+
+.active-img {
+  width: 600px;
+  margin-top: 50px;
+}
+
+.tab-ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.tum-con {
+  display: flex;
+  list-style-type: none;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+}
+
+.img-active-container {
+  text-align: center;
+}
+
+@media (max-width: 576px) {
+  .active-img {
+    width: 280px;
+  }
+  .tab-ul {
+    text-align: center;
+    margin-top: 15px;
+  }
+
+  .tum-con {
+    width: 100vw;
+
+    text-align: center;
+    padding: 0;
+  }
+}

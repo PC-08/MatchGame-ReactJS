@@ -1,0 +1,24 @@
+.tab-li {
+}
+
+.tab-btn {
+  background-color: transparent;
+  border: 0;
+  color: white;
+  font-weight: 500;
+  font-size: 24px;
+  margin-right: 30px;
+  margin-left: 30px;
+}
+
+.active-tab-li {
+  color: #fec653;
+  text-decoration: underline;
+  text-underline-offset: 10px;
+}
+
+@media (max-width: 576px) {
+  .tab-btn {
+    font-size: 18px;
+  }
+}

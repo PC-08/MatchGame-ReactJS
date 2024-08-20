@@ -1,0 +1,14 @@
+.thum-btn {
+  background-color: transparent;
+  border: 0;
+}
+
+.tum-img {
+  width: 120px;
+}
+
+@media (max-width: 576px) {
+  .tum-img {
+    width: 100px;
+  }
+}
