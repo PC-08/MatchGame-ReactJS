@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MatchGame-ReactJS/static/css/main.b4bf30b9.chunk.css",
+    "main.js": "/MatchGame-ReactJS/static/js/main.e67f76c6.chunk.js",
+    "main.js.map": "/MatchGame-ReactJS/static/js/main.e67f76c6.chunk.js.map",
+    "runtime-main.js": "/MatchGame-ReactJS/static/js/runtime-main.29b8e343.js",
+    "runtime-main.js.map": "/MatchGame-ReactJS/static/js/runtime-main.29b8e343.js.map",
+    "static/js/2.6f4fca5a.chunk.js": "/MatchGame-ReactJS/static/js/2.6f4fca5a.chunk.js",
+    "static/js/2.6f4fca5a.chunk.js.map": "/MatchGame-ReactJS/static/js/2.6f4fca5a.chunk.js.map",
+    "index.html": "/MatchGame-ReactJS/index.html",
+    "static/css/main.b4bf30b9.chunk.css.map": "/MatchGame-ReactJS/static/css/main.b4bf30b9.chunk.css.map",
+    "static/js/2.6f4fca5a.chunk.js.LICENSE.txt": "/MatchGame-ReactJS/static/js/2.6f4fca5a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29b8e343.js",
+    "static/js/2.6f4fca5a.chunk.js",
+    "static/css/main.b4bf30b9.chunk.css",
+    "static/js/main.e67f76c6.chunk.js"
+  ]
+}
